@@ -26,5 +26,6 @@ int main()
     {
         cout<<n<<" is Not Prime.\n";
     }
+
     return 0;
 }

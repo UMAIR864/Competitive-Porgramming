@@ -9,6 +9,6 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    int ans=gcd(a,b);
+    int ans=gcd(a,b);//__gcd(a,b) built-in function
     cout<<"GCD "<<a<<", "<<b<<": "<<ans<<endl;
 }

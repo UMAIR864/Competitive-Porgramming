@@ -1,10 +1,10 @@
-	**GCD (Greatest Common Divisor):**
+	GCD (Greatest Common Divisor)
 
 The Greatest Common Divisor, or GCD, of two numbers is the largest number that divides both of them without leaving a remainder. Think of it as finding the biggest number that can evenly go into both of your original numbers.
 
 For example, if you have 8 and 12, the divisors of 8 are 1, 2, 4, and 8, and the divisors of 12 are 1, 2, 3, 4, 6, and 12. The largest number that appears in both lists is 4, so the GCD of 8 and 12 is 4.
 
-	**Euclid's Algorithm for GCD:**
+	Euclid's Algorithm for GCD
 
 Euclid, a clever mathematician from ancient Greece, came up with a neat way to find the GCD of two numbers. Here's how it works:
 

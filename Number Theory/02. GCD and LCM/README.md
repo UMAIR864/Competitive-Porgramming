@@ -22,3 +22,9 @@ Now, replace 48 with 18 and 18 with 12
 Again, replace 18 with 12 and 12 with 6
 12 ÷ 6 = 2 with no remainder
 The last non-zero remainder is 6, so the GCD of 48 and 18 is 6. Euclid's Algorithm is like a systematic way of finding the common factor by repeating the division until you get to the answer.
+
+	LCM (Least Common Multiple)
+
+The Least Common Multiple, or LCM, is the smallest positive number that is a multiple of two or more given numbers. Think of it as finding the smallest common multiple that all the numbers share.
+
+For example, if you have 3 and 4, the multiples of 3 are 3, 6, 9, 12, 15, 18, ... and the multiples of 4 are 4, 8, 12, 16, 20, 24, ... The smallest number that appears in both lists is 12, so the LCM of 3 and 4 is 12.

@@ -1,8 +1,8 @@
-	Prime Numbers:
+	Prime Numbers
 
 A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. In simpler terms, it's a number that cannot be evenly divided by any other numbers except 1 and the number itself. For example, 2, 3, 5, and 7 are prime numbers.
 
-	Sieve of Eratosthenes:
+	Sieve of Eratosthenes
 
 The Sieve of Eratosthenes is a smart and efficient way to find all prime numbers up to a given limit. Imagine you have a bunch of numbers, and you want to figure out which ones are prime. The Sieve works like this:
 
